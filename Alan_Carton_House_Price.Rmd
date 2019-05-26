@@ -3,8 +3,8 @@ title: "Advanced R - Individual Assignment"
 author: "Alan Carton"
 date: "23 May 2019"
 output:
-  html_document: null
   pdf_document: default
+  html_document: null
   toc: yes
   toc_depth: 3
 ---
